@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|c:\\users\\hitmachut\\desktop\\sqlink-test\\sqlink-test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|solutionrelative:sqlink-test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|c:\\users\\hitmachut\\desktop\\sqlink-test\\sqlink-test\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|solutionrelative:sqlink-test\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|c:\\users\\hitmachut\\desktop\\sqlink-test\\sqlink-test\\controllers\\ticketendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|solutionrelative:sqlink-test\\controllers\\ticketendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|c:\\users\\hitmachut\\desktop\\sqlink-test\\sqlink-test\\data\\datatickets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|solutionrelative:sqlink-test\\data\\datatickets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|c:\\users\\hitmachut\\desktop\\sqlink-test\\sqlink-test\\service\\cservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|solutionrelative:sqlink-test\\service\\cservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|c:\\users\\hitmachut\\desktop\\sqlink-test\\sqlink-test\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|solutionrelative:sqlink-test\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|c:\\users\\hitmachut\\desktop\\sqlink-test\\sqlink-test\\data\\dbcontextticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|solutionrelative:sqlink-test\\data\\dbcontextticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|c:\\users\\hitmachut\\desktop\\sqlink-test\\sqlink-test\\service\\cservice\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|solutionrelative:sqlink-test\\service\\cservice\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|c:\\users\\hitmachut\\desktop\\sqlink-test\\sqlink-test\\service\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|solutionrelative:sqlink-test\\service\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|c:\\users\\hitmachut\\desktop\\sqlink-test\\sqlink-test\\service\\idatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|solutionrelative:sqlink-test\\service\\idatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|c:\\users\\hitmachut\\desktop\\sqlink-test\\sqlink-test\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|solutionrelative:sqlink-test\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|c:\\users\\hitmachut\\desktop\\sqlink-test\\sqlink-test\\data\\ticketsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|solutionrelative:sqlink-test\\data\\ticketsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|c:\\users\\hitmachut\\desktop\\sqlink-test\\sqlink-test\\entity\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|solutionrelative:sqlink-test\\entity\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|c:\\users\\hitmachut\\desktop\\sqlink-test\\sqlink-test\\data\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|solutionrelative:sqlink-test\\data\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|c:\\users\\hitmachut\\desktop\\sqlink-test\\sqlink-test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|solutionrelative:sqlink-test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|c:\\users\\hitmachut\\desktop\\sqlink-test\\sqlink-test\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CED536C-C314-4907-AE9F-15688D201158}|SQLink-test\\SQLink-test.csproj|solutionrelative:sqlink-test\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usercontroller.cs",
+              "DocumentMoniker": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\Controllers\\Usercontroller.cs",
+              "RelativeDocumentMoniker": "SQLink-test\\Controllers\\Usercontroller.cs",
+              "ToolTip": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\Controllers\\Usercontroller.cs",
+              "RelativeToolTip": "SQLink-test\\Controllers\\Usercontroller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:36:18.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\service\\IUserService.cs",
+              "RelativeDocumentMoniker": "SQLink-test\\service\\IUserService.cs",
+              "ToolTip": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\service\\IUserService.cs",
+              "RelativeToolTip": "SQLink-test\\service\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:39:46.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\service\\Cservice\\UserService.cs",
+              "RelativeDocumentMoniker": "SQLink-test\\service\\Cservice\\UserService.cs",
+              "ToolTip": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\service\\Cservice\\UserService.cs",
+              "RelativeToolTip": "SQLink-test\\service\\Cservice\\UserService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:39:22.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbcontextTicket.cs",
+              "DocumentMoniker": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\Data\\DbcontextTicket.cs",
+              "RelativeDocumentMoniker": "SQLink-test\\Data\\DbcontextTicket.cs",
+              "ToolTip": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\Data\\DbcontextTicket.cs",
+              "RelativeToolTip": "SQLink-test\\Data\\DbcontextTicket.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwBQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:10:10.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\service\\IDataContext.cs",
+              "RelativeDocumentMoniker": "SQLink-test\\service\\IDataContext.cs",
+              "ToolTip": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\service\\IDataContext.cs",
+              "RelativeToolTip": "SQLink-test\\service\\IDataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:19:23.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "SQLink-test\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\Data\\DataContext.cs",
+              "RelativeToolTip": "SQLink-test\\Data\\DataContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:15:50.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "data.json",
+              "DocumentMoniker": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\Data\\data.json",
+              "RelativeDocumentMoniker": "SQLink-test\\Data\\data.json",
+              "ToolTip": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\Data\\data.json",
+              "RelativeToolTip": "SQLink-test\\Data\\data.json",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-25T10:13:33.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITicketService.cs",
+              "DocumentMoniker": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\service\\ITicketService.cs",
+              "RelativeDocumentMoniker": "SQLink-test\\service\\ITicketService.cs",
+              "ToolTip": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\service\\ITicketService.cs",
+              "RelativeToolTip": "SQLink-test\\service\\ITicketService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:51:32.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\service\\Cservice\\TicketService.cs",
+              "RelativeDocumentMoniker": "SQLink-test\\service\\Cservice\\TicketService.cs",
+              "ToolTip": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\service\\Cservice\\TicketService.cs",
+              "RelativeToolTip": "SQLink-test\\service\\Cservice\\TicketService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:51:05.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\Program.cs",
+              "RelativeDocumentMoniker": "SQLink-test\\Program.cs",
+              "ToolTip": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\Program.cs",
+              "RelativeToolTip": "SQLink-test\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:14:27.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketEndPoint.cs",
+              "DocumentMoniker": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\Controllers\\TicketEndPoint.cs",
+              "RelativeDocumentMoniker": "SQLink-test\\Controllers\\TicketEndPoint.cs",
+              "ToolTip": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\Controllers\\TicketEndPoint.cs",
+              "RelativeToolTip": "SQLink-test\\Controllers\\TicketEndPoint.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:38:46.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dataTickets.json",
+              "DocumentMoniker": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\Data\\dataTickets.json",
+              "RelativeDocumentMoniker": "SQLink-test\\Data\\dataTickets.json",
+              "ToolTip": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\Data\\dataTickets.json",
+              "RelativeToolTip": "SQLink-test\\Data\\dataTickets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-25T12:12:09.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TicketsDb.cs",
+              "DocumentMoniker": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\Data\\TicketsDb.cs",
+              "RelativeDocumentMoniker": "SQLink-test\\Data\\TicketsDb.cs",
+              "ToolTip": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\Data\\TicketsDb.cs",
+              "RelativeToolTip": "SQLink-test\\Data\\TicketsDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:28:16.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\Entity\\Ticket.cs",
+              "RelativeDocumentMoniker": "SQLink-test\\Entity\\Ticket.cs",
+              "ToolTip": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\Entity\\Ticket.cs",
+              "RelativeToolTip": "SQLink-test\\Entity\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:16:29.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\appsettings.json",
+              "RelativeDocumentMoniker": "SQLink-test\\appsettings.json",
+              "ToolTip": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\appsettings.json",
+              "RelativeToolTip": "SQLink-test\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-25T09:48:16.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "SQLink-test\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\hitmachut\\Desktop\\SQLink-test\\SQLink-test\\Entity\\User.cs",
+              "RelativeToolTip": "SQLink-test\\Entity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:17:25.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
